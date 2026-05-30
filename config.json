@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdetch",
+        "uuid": 3727516,
+        "checksum": "xfkjt8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
